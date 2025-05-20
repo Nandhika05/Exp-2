@@ -2,22 +2,11 @@
 
 # AIM:
 
-To draw the UML diagram for ATM and Banking System.
+To study the problem statement, SRS document and draw all the UML diagrams of a Library Management System.
 
 # SRS (Procedure):
-List of Programs:
 
-i) Usecase Diagram
-
-ii)Class Diagram
-
-iii)Activity Diagram
-
-iv)Communication Diagram
-
-v)Package Diagram
-
-vi)Sequence Diagram
+To create Library Management System software that will meet the needs of the applicant and help them to registering and buy the book for the Library, modification in database and cancellation for the registered project.
 # DIAGRAMS:
 
 # Usecase:
